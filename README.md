@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gabs0l
 - 👀 I’m interested in making music and programming.
-- 🌱 I’m currently learning Python, c++.
+- 🌱 I’m a TUM Informatics student.
+- 🤙 I'm learning Java, C and C++ now.
 - 📫 How to reach me gabskontakt@gmail.com
 
 <!---
